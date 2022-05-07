@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
-"""Computes CLOOB embeddings (using the authors' CLOOB repo) of MS COCO 2017.
-
-It requires the MS COCO 2017 training set in ./train2017 and the annotations in ./annotations.
-The authors' CLOOB repo should be in ./cloob.
+"""Computes CLOOB embeddings (using cloob-training).
+Requires https://github.com/crowsonkb/cloob-training in ./cloob-training
 """
 
 import argparse
