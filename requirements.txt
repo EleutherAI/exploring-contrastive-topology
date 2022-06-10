@@ -11,3 +11,4 @@ autofaiss==2.14.0
 faiss-cpu==1.7.2
 faiss-gpu==1.7.2
 git+https://github.com/cat-state/clip_benchmark
+ipympl
